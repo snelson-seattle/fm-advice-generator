@@ -8,12 +8,12 @@ export default function AdviceBox(props) {
       <img
         src="/images/pattern-divider-mobile.svg"
         alt=""
-        className="mobile-divider"
+        className="divider mobile-divider"
       />
       <img
         src="/images/pattern-divider-desktop.svg"
         alt=""
-        className="desktop-divider"
+        className="divider desktop-divider"
       />   
       <Button handleClick={props.handleClick}/>   
     </div>

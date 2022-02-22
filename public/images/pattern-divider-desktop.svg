@@ -1,1 +1,59 @@
-<svg width="444" height="16" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path fill="#4F5D74" d="M0 8h196v1H0zM248 8h196v1H248z"/><g transform="translate(212)" fill="#CEE3E9"><rect width="6" height="16" rx="3"/><rect x="14" width="6" height="16" rx="3"/></g></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="444"
+   height="16"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="pattern-divider-desktop.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="2.3828829"
+     inkscape:cx="221.79017"
+     inkscape:cy="8.1833648"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g10" />
+  <g
+     fill="none"
+     fill-rule="evenodd"
+     id="g10">
+    <path
+       fill="#4F5D74"
+       d="M0 8h196v1H0zM248 8h196v1H248z"
+       id="path2"
+       style="fill:#cee3e9;fill-opacity:1" />
+    <g
+       transform="translate(212)"
+       fill="#CEE3E9"
+       id="g8">
+      <rect
+         width="6"
+         height="16"
+         rx="3"
+         id="rect4" />
+      <rect
+         x="14"
+         width="6"
+         height="16"
+         rx="3"
+         id="rect6" />
+    </g>
+  </g>
+</svg>
