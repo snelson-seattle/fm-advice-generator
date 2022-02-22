@@ -57,7 +57,7 @@ This project was good practice using ReactJS. It incorporates several common Rea
 
 ## Author
 
-- Website - [Scott E. Nelson](https://www.scottenelson.com)
+- Website - [https://www.scottenelson.com](https://www.scottenelson.com)
 - LinkedIn - [www.linkedin.com/in/scottenelson](www.linkedin.com/in/scottenelson)
 - GitHub - [https://github.com/snelson-seattle](https://github.com/snelson-seattle)
 
