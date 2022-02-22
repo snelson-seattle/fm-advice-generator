@@ -1,6 +1,8 @@
 @use "./globals" as *;
 
 .advice {
+  padding: 10px;
+  text-align: center;
   color: $clr-primary-1;
   font-size: $fs-quote;
 }

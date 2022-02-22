@@ -1,14 +1,14 @@
 @use "./globals" as *;
 
 .advice-box {
-  margin-top: 50%;
+  margin: 50% auto;
   position: relative;
-  padding: 10px;
+  padding: 0 10px;
   background-color: $clr-neutral-1;
   height: auto;
   min-height: 300px;
   min-width: 300px;
-  width: 98%;
+  width: 90%;
   border-radius: 15px;
   display: flex;
   flex-direction: column;
@@ -20,6 +20,11 @@
     font-size: 14px;
     text-align: center;
     text-transform: uppercase;
+  }
+
+  .mobile-divider {
+    width: 90%;
+    margin-bottom: 25px;
   }
 
   .desktop-divider {

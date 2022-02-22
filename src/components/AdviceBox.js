@@ -3,7 +3,7 @@ import Button from "./Button";
 export default function AdviceBox(props) {
   return (
     <div className="advice-box">
-      <h1>Advice # {props.advice_number}</h1>
+      <h1>Advice # {props.adviceID}</h1>
       {props.children}
       <img
         src="/images/pattern-divider-mobile.svg"
@@ -15,7 +15,7 @@ export default function AdviceBox(props) {
         alt=""
         className="desktop-divider"
       />   
-      <Button />   
+      <Button handleClick={props.handleClick}/>   
     </div>
   );
 }

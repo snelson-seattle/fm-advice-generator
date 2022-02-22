@@ -1,14 +1,16 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
+import React from "react";
+import ReactDOM from "react-dom";
 
-import App from './App';
+import { AdviceContextProvider } from "./store/advice-context";
+import App from "./App";
 
 import "./styles/main.scss";
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <AdviceContextProvider>
+      <App />
+    </AdviceContextProvider>
   </React.StrictMode>,
-  document.getElementById('root')
+  document.getElementById("root")
 );
-

@@ -1,3 +1,3 @@
-export default function Advice() {
-  return <p className="advice">"Advice goes here."</p>;
+export default function Advice({advice}) {
+  return <p className="advice">"{advice}"</p>;
 }
